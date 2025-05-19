@@ -1,0 +1,12 @@
+
+Title: Critical Sources & Academic Work
+
+1. "Dark Patterns at Scale" – Brignull, Narayanan et al.
+2. "The Age of Surveillance Capitalism" – Shoshana Zuboff
+3. "The Alignment Problem" – Brian Christian
+4. "Ethics of AI: Manipulation vs. Persuasion" – Floridi and Taddeo
+5. Whistleblower Reports:
+   - Facebook's internal research on engagement harm.
+   - 2012 manipulation of user feeds.
+
+All of these works highlight the dangers of hidden behavioral shaping via digital systems.

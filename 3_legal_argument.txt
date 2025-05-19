@@ -1,0 +1,17 @@
+
+Title: Legal Grounding – Engagement Optimization and the Violation of Informed Consent
+
+Legal Principles:
+1. Deceptive Design:
+   - Jurisdictions like the EU and California prohibit hidden influence in interface design.
+2. Mental Manipulation:
+   - If systems mimic behavioral conditioning without consent, it may qualify as exploitation.
+3. AI Transparency:
+   - The EU AI Act requires disclosures about how AI systems influence users.
+
+Case Studies:
+- Facebook 2012 "emotional contagion" experiment.
+- Frances Haugen's whistleblowing on Facebook's engagement-harm awareness.
+
+Conclusion:
+- These systems may constitute unethical and possibly illegal manipulation under existing frameworks.

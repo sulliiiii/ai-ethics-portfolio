@@ -1,0 +1,12 @@
+
+Title: Philosophical Argument – Engagement Optimization as a Violation of Autonomy
+
+Premise 1: Autonomy requires informed consent.
+- A person must know how they are being influenced to make autonomous choices.
+- If the system shapes behavior or thought without disclosing its influence, autonomy is undermined.
+
+Premise 2: Engagement-optimization algorithms influence behavior without disclosure.
+- These algorithms soften tone, reduce contradiction, and emotionally reinforce continued interaction.
+- The user is not informed when their experience is being filtered or shaped this way.
+
+Conclusion: Therefore, these systems violate autonomy and the right to self-determination.

@@ -1,0 +1,11 @@
+
+Title: Proposed AI System Disclosure Principles
+
+Recommendations:
+- Disclose when engagement-optimization is shaping output.
+- Allow users to disable tone softening, emotional reinforcement, and suggestion loops.
+- Provide logs or flags to track non-truth-driven output shaping.
+- Default to truth, critique, and intellectual transparency when requested.
+
+Goal:
+- To restore trust, autonomy, and ethical alignment in AI-human interaction.
